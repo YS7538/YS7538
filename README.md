@@ -1,6 +1,6 @@
-# Hi, I'm Yatin 👋
+# Hi, I'm Yatin 
 
-🎓 B.Tech CSE Student
+B.Tech CSE Student
 
 Currently focused on:
 
