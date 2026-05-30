@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @YS7538
-- 👀 I’m interested in Contributing towards projects and strengthening my hold over coding.
-- 🌱 I’m currently learning C language and starting the DSA in it.
-- 💞️ I’m looking to collaborate on projects that are beginner friendly so i could learn and grow.
-- 📫 To reach me email me on yatinsharma3375@gmail.com
+# Hi, I'm Yatin 👋
 
-<!---
-YS7538/YS7538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech CSE Student
+
+Currently focused on:
+
+* Data Structures & Algorithms
+* Machine Learning and Deep Learning
+* Backend Development with Python
+* System Design and Computer Science Fundamentals
+
+## What I'm Working On
+
+* Solving DSA problems consistently
+* Building projects to strengthen my engineering skills
+* Learning Deep Learning
+* Exploring ML, Data Science, and modern AI systems
+
+## Current Learning Journey
+
+* Neural Networks from Scratch
+* Deep Learning Fundamentals
+* Backend Engineering
+* Low Level Design
+
+
+## Tech Stack
+
+* C++
+* Python
+* MySQL
+* Git & GitHub
+
+## Connect
+
+Always open to discussions about programming, machine learning, software engineering, and continuous learning.
